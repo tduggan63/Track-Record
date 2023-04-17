@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['flag_23',['flag',['../classrecognition.html#a25ab5cb3ee53c7ccb3d4135ba012ef4b',1,'recognition']]]
+  ['previous_5fangles_13',['previous_angles',['../classrecognition.html#a477488efbfe5534b2561cda7ae67658c',1,'recognition']]]
 ];

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['i_1',['i',['../classmovement.html#ac3fc24fb118d2464f651f97bf4b696e3',1,'movement']]],
-  ['increment_2',['increment',['../classrecognition.html#a4f72a031c6cc0ec36203ca28f3169c10',1,'recognition']]]
+  ['pan_1',['pan',['../classmovement.html#ad2a5ef98cbf15b4b56f8f63ec4c917fb',1,'movement']]],
+  ['previous_5fangles_2',['previous_angles',['../classrecognition.html#a477488efbfe5534b2561cda7ae67658c',1,'recognition']]]
 ];
